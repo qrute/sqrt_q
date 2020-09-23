@@ -102,7 +102,7 @@ const Bio = () => {
                   <img src={svgPixiv} alt="Pixiv" />
                   <div>pixiv</div>
                 </BioLink>
-                <BioLink href="https://twitter.com/catnose99">
+                <BioLink href="https://twitter.com/sqrt_q">
                   <img src={svgTwitter} alt="Twitter" />
                   <div>Twitter</div>
                 </BioLink>
