@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `√Q BLOG`,
     author: `sqrt_q`,
-    description: `hello.`,
-    siteUrl: `https://sqrt_q.com`,
+    description: `√Qの個人ブログです。絵の途中経過や動物についての話を書いています。`,
+    siteUrl: `https://sqrt-q.com`,
     social: {
       twitter: `sqrt_q`,
     },
